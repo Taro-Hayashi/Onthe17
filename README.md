@@ -194,6 +194,7 @@ USBケーブルを差し込んで全体的に動作を確認してみてくだ�
 ### トラックボールの設定の変更
 一番上の行の左から2番目のキーを押しながら操作するとトラックボールの設定を変更できるようになっています。
 ![](img/ball.jpg)   
+オートマウス機能はトラックボールを使っている時だけレイヤー3に移動する機能です。  
 
 ### Remapへの接続
 Google Chrome（もしくはChromiumベースのブラウザ）でRemapにアクセスしてください。  
@@ -228,7 +229,6 @@ LEDの設定の変更ができます。
 左上のキーはTAB/Scrollというキーが割り当てられていて、打鍵するとTABキーですが押しながらトラックボールを操作するとカーソル移動ではなくスクロールになります。  
 ![](img/scroll.jpg)   
 同様にLang2/Scrollキーは長押しでスクロール、Lang2/Slowキーは長押しでカーソルの速度が遅くなります。  
-オートマウス機能はトラックボールを使っている時だけレイヤー3に移動する機能です。  
 
 #### 特殊なキーの割り当て
 FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカットやトラックボールの設定をするキーがあります。  
@@ -248,7 +248,14 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 |Slow Mode|押している間はトラックボールの速度が減ります。|
 |ESC（TAB、Lang1、Lang2、Mouse 1、Mouse2、Mouse3）/Slow|タップでESC（TAB、かな、英数、左クリック、右クリック、中クリック）、押し続けるとスローモード。|
 
+## その他
+### ファームウェアまとめ
+- テスト用 https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_default.uf2
+- Remap用 https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_via.uf2  
 
+### ファームウェアのコード
+- https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe17
+f
 
 
 
