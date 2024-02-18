@@ -196,8 +196,9 @@ USBケーブルを差し込んで全体的に動作を確認してみてくだ�
 Google Chrome（もしくはChromiumベースのブラウザ）でRemapにアクセスしてください。  
 - https://remap-keys.app
 
-青いボタンを押してOn the 17を選ぶと接続できます。  
 ![](img/remap1.png)   
+青いボタンを押してOn the 17を選ぶと接続できます。  
+![](img/remap2.png)   
 
 JSONファイルはこちらを使ってください。  
 - https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/onthe17.json
