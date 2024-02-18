@@ -224,7 +224,7 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 |Toggle Auto Mouse|オートマウス機能をオンオフします。|
 |ESC（TAB、Lang1、Lang2）/SCROLL|タップでESC（TAB、かな、英数）、押し続けるとスクロールモード。|
 |Slow Mode|押している間はトラックボールの速度が減ります。|
-|ESC（TAB、Lang1、Lang2、Mouse 1、Mouse2、Mouse3）/SCROLL|タップでESC（TAB、かな、英数、左クリック、右クリック、中クリック）、押し続けるとスローモード。|
+|ESC（TAB、Lang1、Lang2、Mouse 1、Mouse2、Mouse3）/Slow|タップでESC（TAB、かな、英数、左クリック、右クリック、中クリック）、押し続けるとスローモード。|
 
 
 ### LEDの調整
