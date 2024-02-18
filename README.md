@@ -53,7 +53,7 @@
 ![画像を添付](img/) 
 
 こちらのuf2ファイルをダウンロードしてください。  
-- !URL!
+- https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_default.uf2
 
 メインボードをPCと接続するとRPI-RP2というドライブとして認識されるのでダウンロードしたuf2ファイルをドラッグアンドドロップするとキーボードとして使用できるようになります。
 ![画像を添付](img/) 
@@ -150,7 +150,7 @@ M3角ナットがずれないように気を付けながら裏からM3なべね�
 
 ### ファームウェアの更新
 こちらのuf2ファイルをダウンロードしてください。
--  !URL!
+-  https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_via.uf2
 
 一度USBケーブルを外し、USBコネクタに一番近いキーを押しながらPCに接続してしばらく待つとRPI-RP2ドライブが出てきます。  
 ![](img/IMG_15332.jpg) 
@@ -200,7 +200,7 @@ Google Chrome（もしくはChromiumベースのブラウザ）でRemapにアク
 ![](img/remap1.png) 
 
 JSONファイルはこちらを使ってください。
-- !URL!
+- https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/onthe17.json
 
 ### 保存と復元
 こちらからキーマップの保存と復元ができます。
