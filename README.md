@@ -255,7 +255,7 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 
 ### ファームウェアのコード
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe17
-f
+
 
 
 
