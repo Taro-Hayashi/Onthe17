@@ -242,7 +242,7 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 |Invert X|センサーのX軸を反転させます。|
 |Cursor / Scroll|トラックボールの動作を切り替えます。|
 |Invert Scroll|スクロールの方向を反転します。|
-|Scroll Moder|押している間はトラックボールでスクロールします。|
+|Scroll Mode|押している間はトラックボールでスクロールします。|
 |Toggle Auto Mouse|オートマウス機能をオンオフします。|
 |ESC（TAB、Lang1、Lang2）/Scroll|タップでESC（TAB、かな、英数）、押し続けるとスクロールモード。|
 |Slow Mode|押している間はトラックボールの速度が減ります。|
