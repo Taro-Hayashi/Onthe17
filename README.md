@@ -238,13 +238,17 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 |CPI+（-）|カーソルの移動速度を増やし/減らします。|
 |Angle+（-）|カーソルの移動角度を変えます。|
 |Invert X|センサーのX軸を反転させます。|
-|Cursor / Scroll|トラックボールの動作を切り替えます。|
+|Mode Change|トラックボールの動作を切り替えます。|
 |Invert Scroll|スクロールの方向を反転します。|
 |Scroll Mode|押している間はトラックボールでスクロールします。|
 |Toggle Auto Mouse|オートマウス機能をオンオフします。|
 |ESC（TAB、Lang1、Lang2）/Scroll|タップでESC（TAB、かな、英数）、押し続けるとスクロールモード。|
 |Slow Mode|押している間はトラックボールの速度が減ります。|
 |ESC（TAB、Lang1、Lang2、Mouse 1、Mouse2、Mouse3）/Slow|タップでESC（TAB、かな、英数、左クリック、右クリック、中クリック）、押し続けるとスローモード。|
+|Key Input Mode|押している間はトラックボールでキー入力できます。|
+|ESC（TAB、Lang1、Lang2、Mouse 1、Mouse2、Mouse3）/Key Input|タップでESC（TAB、かな、英数、左クリック、右クリック、中クリック）、押し続けるとキー入力モード。|
+|Cursor Mode|押している間はカーソル移動します|
+|RGB Layers|レイヤーを変更するとアンダーグローの色が変化する機能をオンオフします。|
 
 ## その他
 ### ファームウェアまとめ
