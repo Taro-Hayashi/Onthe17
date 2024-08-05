@@ -53,7 +53,7 @@
 ![](img/IMG_1356.jpg)  
 
 こちらのuf2ファイルをダウンロードしてください。  
-- https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_default.uf2
+- https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_default.uf2
 
 メインボードをPCと接続するとRPI-RP2というドライブとして認識されるのでダウンロードしたuf2ファイルをドラッグアンドドロップするとキーボードとして使用できるようになります。  
 ![](img/rpi.jpg)  
@@ -149,7 +149,7 @@ M3角ナットがずれないように気を付けながら裏からM3なべね�
 
 ### ファームウェアの更新
 こちらのuf2ファイルをダウンロードしてください。  
--  https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_via.uf2  
+-  https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_via.uf2  
 
 一度USBケーブルを外し、USBコネクタに一番近いキーを押しながらPCに接続してしばらく待つとRPI-RP2ドライブが出てきます。  
 ![](img/IMG_15332.jpg)   
@@ -248,8 +248,8 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 
 ## その他
 ### ファームウェアまとめ
-- テスト用 https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_default.uf2
-- Remap用 https://github.com/Taro-Hayashi/Onthe17/releases/download/0.23.5/tarohayashi_onthe17_via.uf2  
+- テスト用 https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_default.uf2
+- Remap用 https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_via.uf2  
 
 ### ファームウェアのコード
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe17
