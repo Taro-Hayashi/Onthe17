@@ -53,7 +53,7 @@
 ![](img/IMG_1356.jpg)  
 
 こちらのuf2ファイルをダウンロードしてください。  
-- https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_default.uf2
+- https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_test.uf2
 
 メインボードをPCと接続するとRPI-RP2というドライブとして認識されるのでダウンロードしたuf2ファイルをドラッグアンドドロップするとキーボードとして使用できるようになります。  
 ![](img/rpi.jpg)  
@@ -149,7 +149,7 @@ M3角ナットがずれないように気を付けながら裏からM3なべね�
 
 ### ファームウェアの更新
 こちらのuf2ファイルをダウンロードしてください。  
--  https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_via.uf2  
+-  https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_default.uf2  
 
 一度USBケーブルを外し、USBコネクタに一番近いキーを押しながらPCに接続してしばらく待つとRPI-RP2ドライブが出てきます。  
 ![](img/IMG_15332.jpg)   
