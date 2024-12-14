@@ -258,10 +258,6 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 ### ファームウェアのコード
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe17
 
-### 販売サイト
-- https://tarohayashi.booth.pm/items/5508084
-
-
 
 
 
