@@ -252,8 +252,8 @@ FUNCTIONSタブのVIA USER KEYにOSに関わらず使えるショートカット
 
 ## その他
 ### ファームウェアまとめ
-- テスト用 https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_default.uf2
-- Remap用 https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_via.uf2  
+- テスト用 https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_test.uf2
+- Remap用 https://github.com/Taro-Hayashi/Onthe17/releases/latest/download/tarohayashi_onthe17_default.uf2  
 
 ### ファームウェアのコード
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe17
